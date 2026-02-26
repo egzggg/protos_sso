@@ -1,4 +1,5 @@
-module protos_sso
+module github.com/egzggg/protos_sso
+
 
 go 1.25.1
 
